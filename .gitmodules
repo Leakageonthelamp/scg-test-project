@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = C:/Program Files/Git/client
+[submodule "server"]
+	path = server
+	url = C:/Program Files/Git/server
