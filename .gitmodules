@@ -1,6 +1,6 @@
 [submodule "client"]
 	path = client
-	url = C:/Program Files/Git/client
+	url = https://github.com/Leakageonthelamp/scg-test-project-client
 [submodule "server"]
 	path = server
-	url = C:/Program Files/Git/server
+	url = https://github.com/Leakageonthelamp/scg-test-project-server
